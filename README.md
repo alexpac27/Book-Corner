@@ -2,7 +2,7 @@
 Hosted at: https://the-book-corner.herokuapp.com/
 <img src="https://i.ibb.co/Z2rnMzN/Capture.png" alt="Capture" border="0">
 
-#### :heartpulse: Made by Alex Ortiz & I. 
+#### :heartpulse: Made by Alex Ortiz & Liam Escribano
 
 ### Ruby -v 2.6.5
 
@@ -20,6 +20,6 @@ Hosted at: https://the-book-corner.herokuapp.com/
   <li>PostgresSQL</li>
   <li>CSS/SASS</li>
   <li>HTML5</li>
-  <li>Google API</li>
+  <li>Google Books API</li>
 </ul>
 
